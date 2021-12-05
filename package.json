@@ -1,0 +1,6 @@
+{
+  "name": "responsive",
+  "version": "1.0.0",
+  "main": "./src/responsive.js",
+  "license": "MIT"
+}
